@@ -20,4 +20,4 @@ I love building practical solutions in **financial systems, DevOps, and mobile a
 
 ## 📫 Connect with Me  
 - [GitHub](https://github.com/TamaraChelagat)  
-- [LinkedIn](#) *(add your link here)*  
+- [LinkedIn](www.linkedin.com/in/tamara-chelagat)  
