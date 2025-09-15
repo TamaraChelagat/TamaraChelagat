@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Tamara Chelagat 👋  
 
-<!--
-**TamaraChelagat/TamaraChelagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 *Turning ideas into code that solves real problems.*  
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me  
+I’m a tech enthusiast passionate about exploring **iOS development, AI/ML, and cloud computing**.  
+I love building practical solutions in **financial systems, DevOps, and mobile apps** while continuously learning and sharing my projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools  
+- **Languages:** Swift, Python, JavaScript  
+- **Mobile:** SwiftUI, Xcode  
+- **Cloud & DevOps:** Docker, Kubernetes, Jenkins, Helm  
+- **AI/ML:** Machine Learning, NLP, Fraud Detection Systems  
+- **Other Interests:** Blockchain, Distributed Systems  
+
+## 🌱 Currently Exploring  
+- iOS app development with **SwiftUI**  
+- AI-driven systems for **career advising** and **fraud detection**  
+- Creative projects combining **technology and real-world impact**  
+
+## 📫 Connect with Me  
+- [GitHub](https://github.com/TamaraChelagat)  
+- [LinkedIn](#) *(add your link here)*  
