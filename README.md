@@ -8,10 +8,10 @@ I love building practical solutions in **financial systems, DevOps, and mobile a
 
 ## 🔧 Technologies & Tools  
 - **Languages:** Swift, Python, JavaScript  
-- **Mobile:** SwiftUI, Xcode  
-- **Cloud & DevOps:** Docker, Kubernetes, Jenkins, Helm  
+- **Mobile:** SwiftUI, Xcode, kotlin, Android Studio
+- **Cloud & DevOps:** Docker, Kubernetes, Jenkins, Helm, AWS, Azure
 - **AI/ML:** Machine Learning, NLP, Fraud Detection Systems  
-- **Other Interests:** Blockchain, Distributed Systems  
+- **Other Interests:** Blockchain, Distributed Systems,   
 
 ## 🌱 Currently Exploring  
 - iOS app development with **SwiftUI**  
