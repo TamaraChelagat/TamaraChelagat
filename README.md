@@ -1,6 +1,6 @@
 # Hi, I'm Tamara Chelagat 👋  
 
-🚀 *Turning ideas into code that solves real problems.*  
+🚀 *Turning ideas into code that solve real problems.*  
 
 ## 👩‍💻 About Me  
 I’m a tech enthusiast passionate about exploring **iOS development, AI/ML, and cloud computing**.  
